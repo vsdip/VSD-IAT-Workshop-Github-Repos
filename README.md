@@ -14,6 +14,4 @@ Projects written on resume and projects available on GitHub by a candidate will 
 - [x] [Pavankalyan Motamarri](https://github.com/pkmotam/PD_WORKSHOP_Using_Open_Source_Tools)
 - [x] [S Skandha Deepsita](https://github.com/deepsita/vsdBasicPD)
 - [x] [Sai Bruhath Kotamraju](https://github.com/Bruhath10/Physical-Design)
-- [x] [Ramanpreet Kaur](https://github.com/Raman-07/VSD-Basic-Physical-Design)
-- [x] [Kanishk Barhanpurkar](https://github.com/kanishkb1/VSD_WORKSHOP)
 - [x] [Ashish Patil](https://github.com/patil19/OpenSourcePhyDesign)
