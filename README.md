@@ -25,4 +25,4 @@ Projects written on resume and projects available on GitHub by a candidate will 
 - [x] [Grant Brown](https://gitlab.com/gab13c/openlane-workshop)
 - [x] [Sunny P](https://github.com/reachsunny/OpenLANE_with_Google-Sky130-PDK)
 - [x] [SUMANA N S](https://github.com/SUMANA-N-S/Advanced-Physical-Design-Workshop-using-openLANE---sky130.git)
--[x] [Yashodhan Nitin Wagle](https://github.com/yasho2249/openlane_pd_flow)
+- [x] [Yashodhan Nitin Wagle](https://github.com/yasho2249/openlane_pd_flow)
