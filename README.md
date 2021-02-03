@@ -1,4 +1,4 @@
-# VSD-IAT-Workshop-Github-Repos
+# VSD-IAT OpenLane Workshop-Github-Repos
 GitHub is the new Resume for VLSI industry  GitHub is indeed the new RESUME for VLSI industry. 
 Really, if you are recruiting person and looking forward to judge a new candidate for a role in company, ask for GitHub project link. 
 Projects written on resume and projects available on GitHub by a candidate will immediately give you an idea about his/her perseverance, dedication, sincerity, productivity and amount of hard-work he/she can put inside a project.
